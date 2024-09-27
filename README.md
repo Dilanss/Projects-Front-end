@@ -10,7 +10,6 @@
   <img src="https://i.ibb.co/MSnHGqt/Screen-Shot-2021-04-27-at-08-21-06.png" alt="crono" width="200"/>
 </p>
 
-##
 <h2 align="center">2. Calculator</h2>
 
 <p align="center">
